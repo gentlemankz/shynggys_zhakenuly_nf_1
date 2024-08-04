@@ -72,3 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # shynggys_zhakenuly_nf_1
 
 NF test_1
+
+## Project Instructions
+
+To run the project, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/YOUR_USERNAME/shynggys_zhakenuly_nf_1.git
